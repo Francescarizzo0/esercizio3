@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'dosisextralight';
+    src: url('dosis-variablefont_wght-webfont.woff2') format('woff2'),
+         url('dosis-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    background-color: #EEDBDB;
+    margin: 0;
+}
+
+header{
+    padding:-20px;
+    display: flex;
+   
+}
+
+header img {
+    height: 80px;
+    margin:auto
+    
+    
+}
+
+
+h1 img{
+    height: 50px;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+h3 img{
+    height: 40px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+main h2{
+    font-family: 'Dosis';
+    margin: 0;
+    text-align: center;
+    font-size: 60px;
+    color: #bd5f40;
+}
+main img{
+    height:480px;
+    width: 100%;
+object-fit: cover;
+margin-top: 10px;
+}
+main {
+    background-color: #eeeeee;
+    padding: 4px 0 1px 0;
+    margin: 10px 60px 60px;
+    border-radius: 20px;
+}
+
+h4{
+
+    font-size: 38px;
+    font-family: 'Dosis';
+    font-weight: bolder ;
+ margin-left: 15px;
+ margin-top: 10px;
+ color: #bd5f40;
+padding: 10px 0 0 0;
+}
+ div.rect{
+    background-color: #bd5f40;
+    width: 9px;
+    height: 70px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+h5 img{
+    max-height: 400px;
+    max-width: 600px;
+    margin: auto;
+ 
+    object-fit: cover;
+    display: flex;
+ }
+ div.line{
+    background-color: #bd5f40;
+    width: 2px;
+    height: 80px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+ section.eng p{
+    font-size: 24px;
+    font-family: 'Dosis';
+ margin-left: 40px;
+ margin-right: 40px;
+margin-top: -85px;
+
+ }
+div.linem{
+    background-color: #bd5f40;
+    width: 2px;
+    height: 55px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 75px;
+ }
+ section.mex p{
+    font-size: 24px;
+    font-family: 'Dosis';
+ margin-left: 40px;
+ margin-right: 40px;
+margin-top: -130px;
+}
+section.jap p{
+    font-size: 24px;
+    font-family: 'Dosis';
+ margin-left: 40px;
+ margin-right: 40px;
+margin-top: -85px;
+}
+h6{
+    font-size: 24px;
+    font-family: 'Dosis';  
+    font-weight: lighter;
+    background-color: #dedede;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+ max-width: 500px;
+    padding: 5px 10px 11px 10px;
+    border-radius: 20px;
+}
+div.social{
+width: fit-content;
+margin-top: -45px;
+margin-left: auto;
+margin-right: auto;
+
+}
+div.social img{
+    height: 35px;
+    object-fit: cover;
+margin-left: 5px;
+margin-right: 5px;
+   }
